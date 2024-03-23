@@ -1,0 +1,16 @@
+{
+  "name": "2fastestreactnode",
+  "version": "1.0.0",
+  "description": "2fas authentication react/node implementation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zoran janjic",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "qrcode": "^1.5.3",
+    "speakeasy": "^2.0.0"
+  }
+}
